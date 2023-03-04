@@ -1,6 +1,6 @@
 # Todos
 
-**TODO: Add description**
+Run The Project using ```iex -S mix```
 
 ## Installation
 
